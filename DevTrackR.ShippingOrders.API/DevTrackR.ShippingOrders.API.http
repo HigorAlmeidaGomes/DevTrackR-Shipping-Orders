@@ -1,0 +1,6 @@
+@DevTrackR.ShippingOrders.API_HostAddress = http://localhost:5076
+
+GET {{DevTrackR.ShippingOrders.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

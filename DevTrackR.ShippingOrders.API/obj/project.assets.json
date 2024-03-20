@@ -1,0 +1,193 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "DevTrackR.ShippingOrders.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DevTrackR.ShippingOrders.Core": "1.0.0",
+          "DevTrackR.ShippingOrders.Infrastructure": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Application.dll": {}
+        }
+      },
+      "DevTrackR.ShippingOrders.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Core.dll": {}
+        }
+      },
+      "DevTrackR.ShippingOrders.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DevTrackR.ShippingOrders.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DevTrackR.ShippingOrders.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+      "sha512": "fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "DevTrackR.ShippingOrders.Application/1.0.0": {
+      "type": "project",
+      "path": "../DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj",
+      "msbuildProject": "../DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj"
+    },
+    "DevTrackR.ShippingOrders.Core/1.0.0": {
+      "type": "project",
+      "path": "../DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj",
+      "msbuildProject": "../DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj"
+    },
+    "DevTrackR.ShippingOrders.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../DevTrackR.ShippingOrders.Infrastructure/DevTrackR.ShippingOrders.Infrastructure.csproj",
+      "msbuildProject": "../DevTrackR.ShippingOrders.Infrastructure/DevTrackR.ShippingOrders.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DevTrackR.ShippingOrders.Application >= 1.0.0",
+      "DevTrackR.ShippingOrders.Core >= 1.0.0",
+      "DevTrackR.ShippingOrders.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj",
+      "projectName": "DevTrackR.ShippingOrders.API",
+      "projectPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj",
+      "packagesPath": "C:\\Users\\Higor Gomes\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Higor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj": {
+              "projectPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj"
+            },
+            "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Core\\DevTrackR.ShippingOrders.Core.csproj": {
+              "projectPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Core\\DevTrackR.ShippingOrders.Core.csproj"
+            },
+            "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj": {
+              "projectPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

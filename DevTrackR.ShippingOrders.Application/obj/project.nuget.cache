@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFZvlPSxLs6TS31kb4zu3Ju+qJbUOrRPuDGOBhqaQ0dt44GjzJc//4VKJYP6DCtPsb6PSJnecHw5xAv+L0W1/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Higor Gomes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

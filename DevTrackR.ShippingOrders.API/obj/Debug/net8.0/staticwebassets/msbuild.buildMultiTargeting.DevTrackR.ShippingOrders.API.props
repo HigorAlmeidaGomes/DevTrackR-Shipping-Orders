@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevTrackR.ShippingOrders.API.props" />
+</Project>

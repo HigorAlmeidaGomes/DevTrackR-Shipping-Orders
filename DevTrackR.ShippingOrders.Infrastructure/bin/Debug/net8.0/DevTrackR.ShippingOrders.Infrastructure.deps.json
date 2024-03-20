@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DevTrackR.ShippingOrders.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DevTrackR.ShippingOrders.Core": "1.0.0"
+        },
+        "runtime": {
+          "DevTrackR.ShippingOrders.Infrastructure.dll": {}
+        }
+      },
+      "DevTrackR.ShippingOrders.Core/1.0.0": {
+        "runtime": {
+          "DevTrackR.ShippingOrders.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevTrackR.ShippingOrders.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevTrackR.ShippingOrders.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
