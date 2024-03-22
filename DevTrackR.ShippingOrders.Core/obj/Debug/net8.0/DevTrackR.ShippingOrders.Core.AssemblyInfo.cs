@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevTrackR.ShippingOrders.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5eed8bd4c4739bdbc49f8321b112deea32dda52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955e1ae0ff60cc7222341c8473c8469044bc2724")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevTrackR.ShippingOrders.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevTrackR.ShippingOrders.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
