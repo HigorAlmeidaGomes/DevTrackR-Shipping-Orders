@@ -4,7 +4,7 @@ using DevTrackR.ShippingOrders.Core.ValueObjects;
 namespace DevTrackR.ShippingOrders.Core.Entities;
 public class ShippingOrder : EntityBase
 {
-    public ShippingOrder(string description, DateTime postedAt, decimal weightInKg, DeliveryAddress deliveryAddress)
+    public ShippingOrder(string description, decimal weightInKg, DeliveryAddress deliveryAddress)
     {
         TrackingCode = GenerateTrackingCode();
         Description = description;

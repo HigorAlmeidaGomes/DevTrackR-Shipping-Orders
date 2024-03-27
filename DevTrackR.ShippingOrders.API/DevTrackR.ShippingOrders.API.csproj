@@ -11,4 +11,8 @@
     <ProjectReference Include="..\DevTrackR.ShippingOrders.Core\DevTrackR.ShippingOrders.Core.csproj" />
     <ProjectReference Include="..\DevTrackR.ShippingOrders.Infrastructure\DevTrackR.ShippingOrders.Infrastructure.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
 </Project>

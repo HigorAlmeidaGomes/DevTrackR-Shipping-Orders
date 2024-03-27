@@ -1,4 +1,8 @@
+using DevTrackR.ShippingOrders.Application;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddApplication();
 
 // Add services to the container.
 

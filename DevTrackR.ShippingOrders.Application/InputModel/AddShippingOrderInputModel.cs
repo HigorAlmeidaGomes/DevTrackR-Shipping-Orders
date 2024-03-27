@@ -9,7 +9,7 @@ public class AddShippingOrderInputModel
     public List<ShippingServiceInputModel> Services { get; set; }
 
     public ShippingOrder ToEntity()
-        => new ShippingOrder(
+        => new(
             Description,
             WeightInKg,
             DeliveryAddress.ToValueObject()
