@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "DevTrackR.ShippingOrders.API.Controllers.ShippingOrdersController",
+    "Method": "Post",
+    "RelativePath": "api/shipping-orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DevTrackR.ShippingOrders.Application.InputModel.AddShippingOrderInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevTrackR.ShippingOrders.API.Controllers.ShippingOrdersController",
+    "Method": "GetByCode",
+    "RelativePath": "api/shipping-orders/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevTrackR.ShippingOrders.API.Controllers.ShippingServiceController",
+    "Method": "GetAll",
+    "RelativePath": "api/shipping-services",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.application\\services\\shippingserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|solutionrelative:devtrackr.shippingorders.application\\services\\shippingserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|solutionrelative:devtrackr.shippingorders.application\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|solutionrelative:devtrackr.shippingorders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.application\\services\\ishippingorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|solutionrelative:devtrackr.shippingorders.application\\services\\ishippingorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.application\\services\\ishippingserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|solutionrelative:devtrackr.shippingorders.application\\services\\ishippingserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.application\\services\\shippingorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2CCBAE-8C4B-4C34-9124-C63FE8FA68F9}|DevTrackR.ShippingOrders.Application\\DevTrackR.ShippingOrders.Application.csproj|solutionrelative:devtrackr.shippingorders.application\\services\\shippingorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.api\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|solutionrelative:devtrackr.shippingorders.api\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,85 +21,33 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShippingServiceService.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\IShippingServiceService.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Application\\Services\\IShippingServiceService.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\IShippingServiceService.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.Application\\Services\\IShippingServiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:09:47.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationModule.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\ApplicationModule.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Application\\ApplicationModule.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\ApplicationModule.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.Application\\ApplicationModule.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:04:32.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShippingServiceService.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\ShippingServiceService.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Application\\Services\\ShippingServiceService.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\ShippingServiceService.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.Application\\Services\\ShippingServiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:58:58.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.API\\Program.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:32:36.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShippingOrderService.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\ShippingOrderService.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Application\\Services\\ShippingOrderService.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\ShippingOrderService.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.Application\\Services\\ShippingOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:31:57.781Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IShippingOrderService.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\IShippingOrderService.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Application\\Services\\IShippingOrderService.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Application\\Services\\IShippingOrderService.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.Application\\Services\\IShippingOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "DocumentIndex": 1,
+              "Title": "ShippingOrdersController.cs",
+              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
+              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
+              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
+              "RelativeToolTip": "DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:23:39.187Z",
+              "WhenOpened": "2024-03-29T00:37:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
+              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.API\\Program.cs",
+              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
+              "RelativeToolTip": "DevTrackR.ShippingOrders.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:09:09.224Z",
               "EditorCaption": ""
             }
           ]
