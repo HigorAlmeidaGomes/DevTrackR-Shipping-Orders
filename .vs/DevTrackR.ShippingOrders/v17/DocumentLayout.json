@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|solutionrelative:devtrackr.shippingorders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{098FD77C-4C2E-49A8-8B6A-5D96DF795EE8}|DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.infrastructure\\devtrackr.shippingorders.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{098FD77C-4C2E-49A8-8B6A-5D96DF795EE8}|DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj|solutionrelative:devtrackr.shippingorders.infrastructure\\devtrackr.shippingorders.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.api\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D76AC4E6-D36A-47AE-B072-F1EEA072E06B}|DevTrackR.ShippingOrders.API\\DevTrackR.ShippingOrders.API.csproj|solutionrelative:devtrackr.shippingorders.api\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{098FD77C-4C2E-49A8-8B6A-5D96DF795EE8}|DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj|d:\\projetos\\devtrackr.shippingorders\\devtrackr.shippingorders\\devtrackr.shippingorders.infrastructure\\persistence\\mongodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098FD77C-4C2E-49A8-8B6A-5D96DF795EE8}|DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj|solutionrelative:devtrackr.shippingorders.infrastructure\\persistence\\mongodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShippingOrdersController.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.API\\Controllers\\ShippingOrdersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Title": "MongoDbOptions.cs",
+              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "RelativeToolTip": "DevTrackR.ShippingOrders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T00:37:52.001Z",
+              "WhenOpened": "2024-04-02T01:20:11.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
-              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.API\\Program.cs",
-              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.API\\Program.cs",
-              "RelativeToolTip": "DevTrackR.ShippingOrders.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T00:09:09.224Z",
+              "Title": "DevTrackR.ShippingOrders.Infrastructure",
+              "DocumentMoniker": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj",
+              "ToolTip": "D:\\Projetos\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders\\DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj",
+              "RelativeToolTip": "DevTrackR.ShippingOrders.Infrastructure\\DevTrackR.ShippingOrders.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T01:18:27.998Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

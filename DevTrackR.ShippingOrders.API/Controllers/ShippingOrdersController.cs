@@ -10,7 +10,7 @@ public class ShippingOrdersController : ControllerBase
     private readonly IShippingOrderService _shippingOrderService;
     public ShippingOrdersController(IShippingOrderService shippingOrderService)
     {
-            _shippingOrderService = shippingOrderService;   
+        _shippingOrderService = shippingOrderService;   
     }
     [HttpGet("{code}")]
     public async Task<IActionResult> GetByCode(string code)
@@ -18,7 +18,7 @@ public class ShippingOrdersController : ControllerBase
         var pesquisa = await _shippingOrderService.GetByCode(code);
         
         return pesquisa == null ? NotFound() : Ok(pesquisa);
-    }
+    }  
     
     [HttpPost]
     public async Task<IActionResult> Post(AddShippingOrderInputModel model)

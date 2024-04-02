@@ -7,7 +7,6 @@ public static class ApplicationModule
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
         return services.AddApplicationServices();
-
     }
 
     private static IServiceCollection AddApplicationServices(this IServiceCollection services)
