@@ -1,10 +1,11 @@
 using DevTrackR.ShippingOrders.Application;
-using Microsoft.AspNetCore.Builder;
+using DevTrackR.ShippingOrders.Infrastructure;
 
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddApplication();
+builder.Services.AddInfrastructure();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

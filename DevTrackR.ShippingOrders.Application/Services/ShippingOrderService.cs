@@ -1,16 +1,29 @@
 ﻿using DevTrackR.ShippingOrders.Application.InputModel;
 using DevTrackR.ShippingOrders.Application.ViewModels;
+using DevTrackR.ShippingOrders.Core.Repositories;
 
 namespace DevTrackR.ShippingOrders.Application.Services;
 public class ShippingOrderService : IShippingOrderService
 {
-    public Task<string> Add(AddShippingOrderInputModel model)
+    private readonly IShippingOrderRepository _shippingOrderServiceRepository;
+
+    public ShippingOrderService(IShippingOrderRepository shippingOrderServiceRepository)
     {
-        throw new NotImplementedException();
+        _shippingOrderServiceRepository = shippingOrderServiceRepository;
+    }
+    public async Task<string> Add(AddShippingOrderInputModel model)
+    {
+        var shippingOrder = model.ToEntity();
+        var shippingServices = model.Services.Select(x => x.ToEntity()).ToList();
+        shippingOrder.SetupServices(shippingServices);
+        await _shippingOrderServiceRepository.AddAsync(shippingOrder);
+
+        return shippingOrder.TrackingCode;
     }
 
-    public Task<ShippingOrderViewModel> GetByCode(string trackingCode)
+    public async Task<ShippingOrderViewModel> GetByCode(string trackingCode)
     {
-        throw new NotImplementedException();
+        var shippingOrder = await _shippingOrderServiceRepository.GetByCodeAsync(trackingCode);
+        return ShippingOrderViewModel.FromEntity(shippingOrder);
     }
 }

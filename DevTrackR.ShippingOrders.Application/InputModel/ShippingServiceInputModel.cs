@@ -7,5 +7,5 @@ public class ShippingServiceInputModel
     public decimal PricePerKg { get; set; }
     public decimal FixedPrice { get; set; }
     public ShippingService ToEntity()
-        => new (Title, PricePerKg, FixedPrice);
+        => new(Title, PricePerKg, FixedPrice);
 }
