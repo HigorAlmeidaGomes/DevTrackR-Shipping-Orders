@@ -30,4 +30,11 @@ public class ShippingOrdersController : ControllerBase
             new { code },
             model);
     }
+
+    [HttpPost]
+
+    public async Task<IActionResult>Update(ShippingOrderUpdateInputModel model)
+    {
+        return Ok();
+    }
 }

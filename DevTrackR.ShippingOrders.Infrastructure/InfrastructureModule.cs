@@ -1,4 +1,5 @@
 ﻿using DevTrackR.ShippingOrders.Core.Repositories;
+using DevTrackR.ShippingOrders.Infrastructure.Messaging;
 using DevTrackR.ShippingOrders.Infrastructure.Persistence;
 using DevTrackR.ShippingOrders.Infrastructure.Persistence.Repositories;
 using Microsoft.Extensions.Configuration;
@@ -13,6 +14,7 @@ public static class InfrastructureModule
     {
         services.AddMongo();
         services.AddServiceRepository();
+        services.AddServiceRabbitMq();
         return services;
     }
 
@@ -61,6 +63,12 @@ public static class InfrastructureModule
     {
         services.AddScoped<IShippingServiceRepository, ShippingServiceRepository>();
         services.AddScoped<IShippingOrderRepository, ShippingOrderRepository>();
+        return services;
+    }
+
+    private static IServiceCollection AddServiceRabbitMq( this IServiceCollection services)
+    {
+        services.AddScoped<IMessageBusService, RabbitMqService>();
         return services;
     }
 }

@@ -3,8 +3,10 @@
 namespace DevTrackR.ShippingOrders.Application.InputModel;
 public class AddShippingOrderInputModel
 {
+    public string TrackingCode {  get; set; }
     public string Description { get; set; }
     public decimal WeightInKg { get; set; }
+    public string ContactEmail { get; set; }
     public DeliveryAddressInputModel DeliveryAddress { get; set; }
     public List<ShippingServiceInputModel> Services { get; set; }
 
